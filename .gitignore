@@ -1,3 +1,5 @@
 /downloaded_media/
+/admin_files_downloaded/
+/saved_pages/
 /venv/
 .env
